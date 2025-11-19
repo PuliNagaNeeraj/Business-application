@@ -1,7 +1,7 @@
 # Business-application
 # Creating a warehouse application in salesforce.com
-## Name : Puli Naga Neeraj
-## Reg.No: 212223240130
+### Name : Puli Naga Neeraj
+### Reg.No: 212223240130
 ## AIM: Creating a Warehouse application in SalesForce.com.
 ## Types of Applications in SFDC
 In Salesforce.com, we have two types of Applications they are
